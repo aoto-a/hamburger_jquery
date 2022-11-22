@@ -64,7 +64,7 @@ span {
 }
 
 .open:nth-child(3) {
-    transform: translateY(-8px) rotate(-45deg);// Y軸方向に8px移動、反時計回りに45度回転
+    transform: translateY(-8px) rotate(-45deg);// Y軸方向に-8px移動、反時計回りに45度回転
     transition: .2s;// 0.2秒の速さで
 }
 
