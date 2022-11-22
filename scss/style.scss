@@ -60,7 +60,7 @@ span {
 }
 
 .open:nth-child(2) {
-    opacity: 0;
+    opacity: 0;// 真ん中の線は不要なので透明にして見えなくする
 }
 
 .open:nth-child(3) {
